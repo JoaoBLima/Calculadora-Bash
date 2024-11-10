@@ -10,8 +10,8 @@ Este projeto é uma calculadora simples desenvolvida em Bash e CGI, que permite 
 - 
 ## Estrutura do Projeto
 
-- **calculadora.html**: Página inicial do projeto, onde o usuário insere o nome.
-- **calculadora.cgi**: Script CGI em Bash que recebe o nome inserido, processa a informação e exibe uma saudação personalizada.
+- **calculadora.html**: Página HTML com o formulário para o usuário inserir os números e escolher a operação.
+- **calculadora.cgi**: cript Bash que processa os dados do formulário e retorna o resultado.
 
 # Configuração de CGI no Ubuntu com Apache
 
