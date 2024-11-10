@@ -1,4 +1,3 @@
-# Calculadora-Bash
 
 # Calculadora Simples em Bash e CGI
 
