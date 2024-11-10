@@ -106,7 +106,7 @@ sudo tail -f /var/log/apache2/error.log
 
 ### 10. Executar o calculadora.html
 Abra o navegador e acesse a página HTML:
-http://localhost/calculadroa.html
+http://localhost/calculadora.html
 
 ### 11. Vídeo do projeto funcionado
 [https://drive.google.com/file/d/1DfdqYPvsWv_0Pp3BNCQHdpd_UMrE1Xgs/view?usp=sharing](https://drive.google.com/file/d/1GhZ59TddV6qdb-3pYmp1fCg_QkXpQ8l9/view?usp=sharing)
