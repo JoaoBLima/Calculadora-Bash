@@ -2,11 +2,6 @@
 # Calculadora Simples em Bash e CGI
 
 Este projeto é uma calculadora simples desenvolvida em Bash e CGI, que permite ao usuário inserir dois números e escolher uma operação (adição, subtração, multiplicação ou divisão). O resultado da operação é exibido em uma página HTML gerada dinamicamente.
-
-## Pré-requisitos
-
-- **Servidor Web com suporte a CGI**: O projeto foi testado usando o servidor Apache com o módulo `cgi-bin` habilitado.
-- **Sistema Operacional**: Linux Ubuntu.
 - 
 ## Estrutura do Projeto
 
